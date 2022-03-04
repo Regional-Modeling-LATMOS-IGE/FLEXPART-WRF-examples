@@ -16,5 +16,6 @@ FLEXPART_COLUMN_wrf_2014071900_flex_20140720143015.png -> example total column p
 
 CROSS_SECTION_wrf_2014071900_flex_20140720143015.png -> example vertical cross section plot	
 
+# Developers
 code written by louis.marelle@latmos.ipsl.fr and modified by jennie.thomas@univ-grneoble-alpes.fr
 
