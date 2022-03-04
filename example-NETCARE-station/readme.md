@@ -1,4 +1,4 @@
-# input files for setting up a FLEXPART-WRF for a NETCARE case
+# Files for generating a FLEXPART-WRF input file and plotting for a NETCARE case
 
 Also includes plotting scripts for vertical cross section of FLEXPART-WRF output and  plotting scripts for partial and total columnFLEXPART-WRF output
 
